@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "xYmxGiuTAkGM+WFWpcKdqdV6kb0SSvySe4vcErQMff+lyT23N2B8AoWKF6yYzv1Aif6QEcxQYfsZmVtIKrHiMg==",
+  "dgSpecHash": "pQN05LtR4S2sOltfxkyK1juo6poztknhjzezgOwoO7IX+tyDVrbjxfXEjVRm6d9fM2vQ12f3egBSFVF6GTk5KA==",
   "success": true,
   "projectFilePath": "C:\\Users\\asull\\Documents\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\asull\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\asull\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\asull\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\asull\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\asull\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\asull\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }
